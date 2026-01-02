@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python (if you add scripts later)
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# IPT / local artifacts (we'll keep exported dwca zips intentionally)
+ipt-data/
