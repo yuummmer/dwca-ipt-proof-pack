@@ -17,3 +17,8 @@ ipt-data/
 
 # local downloads junk
 /dwca/_incoming_misc/
+
+# local IPT runtime data
+/ipt-data/
+# local downloads junk
+/dwca/_incoming_misc/
