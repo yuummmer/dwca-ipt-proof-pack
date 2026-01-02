@@ -1,0 +1,6 @@
+id	basisOfRecord	occurrenceID	eventDate	countryCode	decimalLatitude	decimalLongitude
+occ-001ID	HumanObservation	occ-001	2024-04-12	US	37.8044	-122.2711
+occ-002ID	HumanObservation	occ-002	2024-04-13	US	37.8715	-122.2730
+occ-003ID	HumanObservation	occ-003	2024-04-14	US	37.8651	-122.2585
+occ-004ID	HumanObservation	occ-004	2024-04-15	US	38.5816	-121.4944
+occ-005ID	HumanObservation	occ-005	2024-04-16	US	36.6002	-121.8947
