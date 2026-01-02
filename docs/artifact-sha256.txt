@@ -1,0 +1,5 @@
+6a5487773de69c3bc83c2604b4f1763cdaa26183fd5befe95d633e78c0680021  dwca/dwca-occ-proofpack-v1.0.zip
+d1dc545098c6006d3af1685ab469e8e95bb8a2fd2aad2523a017e5dd380bebbb  fixtures/zips/broken-1-duplicate-ids.zip
+b443e219c03686668024290b11e51d57922a9631013c2e6101fbdbcbc7a9d46a  fixtures/zips/broken-2-missing-scientificName.zip
+54060fc1bf2ab6c5b064d8ac12d88dd91784ba1dc31a426a0d77cb53852396df  fixtures/zips/broken-3-bad-meta.zip
+41767de4b2ae13b502f310cd1c007b4865fc12d1edbfc1b7617e42d314b2c283  fixtures/zips/good.zip
