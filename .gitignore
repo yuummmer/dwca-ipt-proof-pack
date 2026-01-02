@@ -11,3 +11,6 @@ __pycache__/
 
 # IPT / local artifacts (we'll keep exported dwca zips intentionally)
 ipt-data/
+
+# local downloads junk
+/dwca/_incoming_misc/
